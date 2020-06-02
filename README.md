@@ -1,6 +1,6 @@
 # Show Your Work
 
-A simple Python3 script for calculating the expected validation performance proposed in [Show Your Work: Improved Reporting of Experimental Results (Dodge, et al, EMNLP 2019) ](https://arxiv.org/abs/2004.13705) and refined in [Showing Your Work Doesn't Always Work (Tang, et al, ACL 2020) ](https://arxiv.org/abs/2004.13705). 
+A simple Python3 script for calculating the expected validation performance proposed in [Show Your Work: Improved Reporting of Experimental Results (Dodge, et al, EMNLP 2019) ](https://arxiv.org/abs/1909.03004) and refined in [Showing Your Work Doesn't Always Work (Tang, et al, ACL 2020) ](https://arxiv.org/abs/2004.13705). 
 
 Refer to those papers for the actual caculation. Correctness of the implemenation is not verified.
 
